@@ -29,3 +29,26 @@ src/
 │   └── StudentServiceImpl.java  
 └── app/  
     └── Main.java  
+
+ ## Code Overview
+ Model/Student.java
+Represents a single student with:
+
+id (int): unique identifier
+
+name (String): student’s name
+
+course (String): course enrolled
+
+Includes:
+
+Constructor to initialize data
+
+Getters & setters
+
+toString() method to display student info in a readable format
+
+java
+Copy
+Edit
+
