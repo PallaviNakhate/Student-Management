@@ -1,4 +1,4 @@
-# Student Management System
+8# Student Management System
 This is a simple console-based Student Management System built with Java.
 It demonstrates basic CRUD (Create, Read, Update, Delete) operations using OOP principles like classes, interfaces, and in-memory storage.
 
@@ -68,7 +68,7 @@ This project demonstrates:
 
 • Simple user interaction via the console
 
-Contact Pallavi Ganesh Nakhate  
+Contact : Pallavi Ganesh Nakhate  
 pallavinakhate13@gmail.com
 
 
