@@ -48,4 +48,24 @@ Includes:
 
 • toString() method to display student info in a readable format
 
+## Future Improvements (Ideas)
+Save student data to a file or database (persistence)
+
+Add validation (e.g., duplicate IDs)
+
+Build a GUI (Swing / JavaFX)
+
+Use Java Streams for filtering & searching
+
+## Summary
+This project demonstrates:
+
+Object-oriented programming in Java
+
+Working with interfaces and implementation classes
+
+Collections API (ArrayList)
+
+Simple user interaction via the console
+
 
