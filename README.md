@@ -17,15 +17,15 @@ This Student Management System is designed to :
  
 • Exit the application    
 
-## GitHub Repository
+## 📎 GitHub Repository
 https://github.com/PallaviNakhate/Student-Management.git
 
-## Project Structure
-src/
-├── Model/
-│   └── Student.java
-├── Service/
-│   ├── StudentService.java
-│   └── StudentServiceImpl.java
-└── app/
-    └── Main.java
+## 🚀 Project Structure
+src/  
+├── Model/  
+│   └── Student.java  
+├── Service/  
+│   ├── StudentService.java  
+│   └── StudentServiceImpl.java  
+└── app/  
+    └── Main.java  
