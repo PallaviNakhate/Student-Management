@@ -16,3 +16,6 @@ This Student Management System is designed to :
 • Update existing student information   
  
 • Exit the application    
+
+## GitHub Repository
+https://github.com/PallaviNakhate/Student-Management.git
