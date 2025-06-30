@@ -30,7 +30,7 @@ src/
 └── app/  
     └── Main.java  
 
- ## Code Overview
+ ## 🔍 Code Overview
  Model/Student.java
 Represents a single student with:
 
