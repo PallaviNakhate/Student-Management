@@ -19,3 +19,13 @@ This Student Management System is designed to :
 
 ## GitHub Repository
 https://github.com/PallaviNakhate/Student-Management.git
+
+## Project Structure
+src/
+├── Model/
+│   └── Student.java
+├── Service/
+│   ├── StudentService.java
+│   └── StudentServiceImpl.java
+└── app/
+    └── Main.java
